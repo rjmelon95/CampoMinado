@@ -10,14 +10,14 @@ O projeto foi desenvolvido e executado no Eclipse IDE.
 ## Funcionalidades
 
 # Inicialização do Jogo:
-Definição do tamanho do tabuleiro (n x n) e do número de minas pelo usuário.
-Geração aleatória das minas no tabuleiro.
-Cálculo dos números nas células adjacentes às minas.
+- Definição do tamanho do tabuleiro (n x n) e do número de minas pelo usuário.
+- Geração aleatória das minas no tabuleiro.
+- Cálculo dos números nas células adjacentes às minas.
 
 # Interação do Usuário:
-Exibição do tabuleiro no console, ocultando minas e mostrando apenas as células reveladas.
-Entrada do usuário para escolher uma célula para revelar.
-Validação da entrada do usuário, garantindo coordenadas válidas.
+- Exibição do tabuleiro no console, ocultando minas e mostrando apenas as células reveladas.
+- Entrada do usuário para escolher uma célula para revelar.
+- Validação da entrada do usuário, garantindo coordenadas válidas.
 
 # Lógica do Jogo:
 
